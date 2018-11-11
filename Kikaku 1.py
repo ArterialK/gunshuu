@@ -1,4 +1,4 @@
-############ Proyecto 1 del prro de EDAII    ################################
+############ Proyecto 1  de EDAII    ################################
 ############ si no recuerdan que es es hacer un codigo que ##################
 ############ Ordene una lista en forma de triangulo o sierra ################
 ############ punto extra si solo es usando una funcion ######################
